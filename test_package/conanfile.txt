@@ -1,5 +1,5 @@
 [requires]
-m4/latest@sztomi/testing
+bison/3.0.4@sztomi/testing
 
 [generators]
 virtualenv
